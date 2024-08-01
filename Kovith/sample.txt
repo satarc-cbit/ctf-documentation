@@ -1,5 +1,5 @@
-Name:
-Branch:
-Year:
-Roll number:
-githubURL:
+Name: Ch. Kovith
+Branch: CSE( IoT,CS & BCT )
+Year: 4th year 
+Roll number: 160121749026
+githubURL: https://github.com/kovithkovi
