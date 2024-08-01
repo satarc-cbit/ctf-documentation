@@ -1,5 +1,5 @@
-Name:
-Branch:
-Year:
-Roll number:
-githubURL:
+Name: Sravan Kumar B
+Branch: Artificial Intelligence & Data Science
+Year: 4
+Roll number: 160121771308
+githubURL: https://github.com/sravankumar21/
