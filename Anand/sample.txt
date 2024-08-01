@@ -1,5 +1,5 @@
-Name:
-Branch:
-Year:
-Roll number:
-githubURL:
+Name: Guguloth Anand
+Branch: CSE (CS & IOT)
+Year: 4
+Roll number: 160121749037
+githubURL: https://github.com/Anand-987
